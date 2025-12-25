@@ -1,0 +1,12 @@
+{
+  "name": "John Doe",
+  "username": "johndoe",
+  "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+  "location": "India",
+  "followers": 120,
+  "following": 80,
+  "website": "https://example.com",
+  "instagram": "https://instagram.com/johndoe",
+  "facebook": "https://facebook.com/johndoe"
+
+}
